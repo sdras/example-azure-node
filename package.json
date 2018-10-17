@@ -1,6 +1,6 @@
 {
-  "name": "GH-action-azure",
-  "description": "Azure Action Deploy Sample",
+  "name": "example-azure-node",
+  "description": "An example Node webapp deployed to Azure with GitHub actions",
   "version": "0.0.1",
   "private": true,
   "license": "MIT",
